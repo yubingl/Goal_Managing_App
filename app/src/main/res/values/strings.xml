@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Successorator</string>
+    <string name="placeholder">Placeholder</string>
+    <string name="empty_list_greeting">No goals for the Day. Click the + at the upper right to enter your Most Important Thing.</string>
+</resources>
